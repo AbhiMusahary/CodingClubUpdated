@@ -29,7 +29,7 @@ const hero = () => {
             </div>
         </div>
 
-        <Spline data-aos="fade-zoom-in" data-aos-easing="ease-in-back" data-aos-delay="300" data-aos-offset="0" className='absolute lg:top-0 top-[-10%] h-full w-full z-0' scene="https://prod.spline.design/Qy3jSIZm8GWiJJhi/scene.splinecode" />
+        <Spline data-aos="fade-zoom-in" data-aos-easing="ease-in-back" data-aos-delay="300" data-aos-offset="0" className='absolute lg:top-0 top-[-20%] bottom-0 lg:left-[25%] sm:left-[-2%] h-full' scene="https://prod.spline.design/Qy3jSIZm8GWiJJhi/scene.splinecode" />
 
         
     </main>
